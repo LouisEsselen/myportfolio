@@ -2450,7 +2450,7 @@ a {
 }
 .cid-sFF3CYc3p7 {
   padding-top: 15px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #4f4e4c;
   overflow: hidden;
 }
@@ -5812,6 +5812,11 @@ a {
   background-color: #4f4e4c;
   overflow: hidden;
 }
+.cid-tHSJzVI6zU {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
 .cid-sFF0ciwnEL {
   z-index: 1000;
   width: 100%;
@@ -6164,9 +6169,4 @@ a {
   padding-bottom: 15px;
   background-color: #4f4e4c;
   overflow: hidden;
-}
-.cid-tHSJzVI6zU {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
 }
